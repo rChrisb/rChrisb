@@ -3,14 +3,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rChrisb&theme=synthwave)](https://git.io/streak-stats)
 
+<img align="left" width="43%" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47am3odmqfgag2c88hhfu9qbn8uysndpdht7denirq&rid=giphy.gif&ct=g" />
+
+<img align="left" width="23%" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47ht8u3cclc0k2g63filsh5ht406exif48zl5ez2hi&rid=giphy.gif&ct=g" />
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rChrisb&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChrisb&layout=compact" />
-
-
-
-
-
 
 <img align="left" src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" src ="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
