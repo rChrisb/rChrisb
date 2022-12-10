@@ -1,4 +1,4 @@
-# Hi there, I'm Chris! 👋
+# Hi there! Welcome on my Github! 👋
 
 <p align="center">
 <img  align="" width="63%" src="https://streak-stats.demolab.com/?user=rChrisb&theme=slateorange" />
