@@ -1,7 +1,7 @@
 # Hi there & Welcome on my Github! 👋
 
 <p align="center">
-<img  align="" width="63%" src="https://streak-stats.demolab.com/?user=rChrisb&theme=gotham" />
+<img  align="" width="63%" src="https://streak-stats.demolab.com/?user=rChrisb&theme=calm" />
 </p>
 <p align="center">
   <img  align="" width="63%" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47am3odmqfgag2c88hhfu9qbn8uysndpdht7denirq&rid=giphy.gif&ct=g" />
@@ -9,9 +9,9 @@
 <img align="left" width="23%" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47ht8u3cclc0k2g63filsh5ht406exif48zl5ez2hi&rid=giphy.gif&ct=g">
 
 <p align="center">
-  <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=rChrisb&show_icons=true&theme=gotham" />
+  <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=rChrisb&show_icons=true&theme=solarized-light" />
 
-<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChrisb&layout=compact&theme=gotham" />
+<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChrisb&layout=compact&theme=panda" />
 </p>
 
 <p align="center">
