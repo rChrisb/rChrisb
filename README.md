@@ -1,4 +1,4 @@
-# Hi there & Welcome on my Github! 👋
+# <p align=center>Hi there & Welcome on my Github! 👋</p>
 
 <p align="center">
 <img  align="" width="63%" src="https://streak-stats.demolab.com/?user=rChrisb&theme=material-palenight" />
