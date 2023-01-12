@@ -8,12 +8,12 @@
 </p>
 <img align="left" width="23%" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47ht8u3cclc0k2g63filsh5ht406exif48zl5ez2hi&rid=giphy.gif&ct=g">
 
-<p align="center">
+<!-- <p align="center">
   <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=rChrisb&show_icons=true&theme=synthwave" />
 
 <img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChrisb&layout=compact&theme=synthwave" />
 </p>
-
+ -->
 <p align="center">
 <img align="left" width="10%" src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" width="14%" src ="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
