@@ -24,9 +24,14 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   
+ 
+  
 <img align="left" width="10%" src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 <p align="bottom">
 <img align="left" width="10%" src="https://komarev.com/ghpvc/?username=rChrisb&color=yellow" />
 </p>
 
+<p align=center>
+ <a href=#><img src="github-user-contribution.svg"></a>
+ </p>
