@@ -9,9 +9,9 @@
 <img align="left" width="23%" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47ht8u3cclc0k2g63filsh5ht406exif48zl5ez2hi&rid=giphy.gif&ct=g">
 
  <p align="center">
-  <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=rChrisb&show_icons=true&theme=chartreuse-dark" />
+  <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=rChrisb&show_icons=true&theme=gotham" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChrisb&layout=compact&theme=chartreuse-dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChrisb&layout=compact&theme=gotham" />
 </p> 
 
 <p align="center">
