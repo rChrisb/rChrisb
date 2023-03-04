@@ -11,7 +11,7 @@
  <p align="center">
   <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=rChrisb&show_icons=true&theme=nord" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChrisb&layout=compact&theme=synthwave" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChrisb&layout=compact&theme=vision-friendly-dark" />
 </p> 
 
 <p align="center">
