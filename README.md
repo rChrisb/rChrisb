@@ -32,7 +32,7 @@
 <img align="left" width="10%" src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 <p align="bottom">
-<img align="left" width="5%" src="https://komarev.com/ghpvc/?username=rChrisb&color=blue" />
+<img align="left" width="8%" src="https://komarev.com/ghpvc/?username=rChrisb&color=blue" />
 </p>
 
 <p align=center>
