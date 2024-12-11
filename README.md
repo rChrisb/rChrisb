@@ -1,7 +1,7 @@
 # <p align=center>Hi there!<br> Welcome on my Github! 👋</p>
 
 <p align="center">
-<img  align="" width="63%" src="https://streak-stats.demolab.com/?user=rChrisb&theme=GOTHam"
+<img  align="" width="63%" src="https://streak-stats.demolab.com/?user=rChrisb&theme=goTHam"
   " />
 </p>
 <p align="center">
